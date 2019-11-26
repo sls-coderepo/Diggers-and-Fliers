@@ -1,0 +1,11 @@
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.exe
+C:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.deps.json
+C:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.runtimeconfig.json
+C:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.runtimeconfig.dev.json
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.dll
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\bin\Debug\netcoreapp3.0\DiggersandFliers.pdb
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.csprojAssemblyReference.cache
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.AssemblyInfoInputs.cache
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.AssemblyInfo.cs
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.dll
+c:\Users\Shirish\Projects\workspace\DiggersandFliers\obj\Debug\netcoreapp3.0\DiggersandFliers.pdb
